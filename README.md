@@ -51,3 +51,25 @@ http://localhost:8501
 ## Notes
 
 Location detection is approximate because it is based on IP address. City search and forecast data require network access.
+🌦️ Excited to share my Weather Forecast Application developed during my Python Development Internship at Pinnacle Labs.
+
+Pinnacle Labs delivers innovative IT solutions in software development, cybersecurity, cloud computing, and data analytics, helping organizations leverage technology for business growth and digital transformation.
+
+✨ Features:
+• Real-time weather updates
+• Automatic location detection
+• Current temperature and weather conditions
+• Humidity and wind speed information
+• User-friendly interface
+
+🛠️ Technologies Used:
+Python, Weather API, HTML, CSS, JavaScript
+
+This project enhanced my understanding of API integration, real-time data processing, and user interface development. It was a great opportunity to apply Python programming skills to a practical real-world application.
+
+Thank you Pinnacle Labs for the valuable internship experience and continuous learning opportunities.
+
+#Python #WeatherApp #API #Internship #Programming #SoftwareDevelopment #PinnacleLabs #TechInnovation
+
+@Pinnacle Labs
+
